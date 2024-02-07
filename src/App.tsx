@@ -1,8 +1,9 @@
-
 export function App() {
-  return (
-    <h1>Hello world</h1>
-  )
+	return (
+		<div className="bg-slate-800 h-screen ">
+			<h1 className="text-3xl font-bold underline text-slate-500 font-Inter">
+				Busque em suas notas...
+			</h1>
+		</div>
+	);
 }
-
-
